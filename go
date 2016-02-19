@@ -15,3 +15,8 @@ https://go-zh.org/ref/spec
 
 
 https://github.com/astaxie/build-web-application-with-golang  *****
+
+异常处理
+http://www.infoq.com/cn/news/2012/11/go-error-handle
+
+
