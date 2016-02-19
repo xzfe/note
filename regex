@@ -1,1 +1,7 @@
 google/re2
+
+https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/04.2.md
+中文
+英文 ^[a-zA-Z]+$
+电子邮件地址 ^([\w\.\_]{2,10})@(\w{1,}).([a-z]{2,4})$
+手机号码 ^(1[3|4|5|8][0-9]\d{4,8})$
