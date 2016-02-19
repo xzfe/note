@@ -1,4 +1,8 @@
+go指南
 https://tour.golang.org/list
+
+go指南 参考链接 
+https://tour.go-zh.org/concurrency/11
 
 https://github.com/astaxie/build-web-application-with-golang
 
